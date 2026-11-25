@@ -1,0 +1,24 @@
+# Kit redmoon: resta solo su questo PC
+/CLAUDE.md
+/CLAUDE.local.md
+/.claude/
+/.mcp.json
+/stacks/
+/NOTICE.md
+/scripts/env-supabase-locale.mjs
+
+node_modules/
+dist/
+build/
+coverage/
+.expo/
+.env
+.env.*
+!.env.example
+*.local
+.secret.local
+.emulator-data/
+supabase/.temp/
+secrets/
+*.log
+.claude/.stato/
