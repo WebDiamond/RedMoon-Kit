@@ -1,4 +1,6 @@
-# redmoon kit
+# RedMoon kit
+
+![logo](logo.jpg)
 
 Il flusso di redmoon (requisiti → piano → sviluppo → revisione → pull
 request → anteprima → rilascio) portato dentro **Claude Code**: niente
